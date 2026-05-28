@@ -1,4 +1,4 @@
-# Assignment-1
+# CSharp-Console-Project-Assignment-1
 
 A simple C# console application developed using .NET 10.0.  
 This project demonstrates basic console output, program structure, and fundamental C# programming concepts.
